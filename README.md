@@ -7,7 +7,7 @@ The current version of the repository can cover the experiments reported in the 
 
 Train: run *train_university.py*, with --only_test = False.
 
-Test: run *train_university.py*, with --only_test = False, and choose the model in --ckpt_path.
+Test: run *train_university.py*, with --only_test = True, and choose the model in --ckpt_path.
 
 
 
@@ -40,5 +40,9 @@ The train and test operation is similar to the University-1652 dataset but with 
 This part has not been well presented, but you can manually use it in the data augmentation script "DAC-->sample4geo-->dataset-->university.py". We provide multi-weather augmentation settings using python package "albumentations", you can add them into the transforms to evaluate the model on Multi-weather Univerisy-1652 dataset.
 
 
+4. Models
+
+We provide the trained models in the link below:
+https://drive.google.com/file/d/140xgtckQkRwqgszD1wWiDH6lV7xufa8r/view?usp=drive_link
 
 We will update this repository for better clarity ASAP, current version is for quick research for researchers interested in the cross-view geo-localization task.
