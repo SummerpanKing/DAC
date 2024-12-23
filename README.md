@@ -1,5 +1,5 @@
 # DAC
-This repository is the official implementation of the paper "Enhancing Cross-View Geo-Localization with Domain Alignment and Scene Consistency". 
+This repository is the official implementation of the paper "Enhancing Cross-View Geo-Localization with Domain Alignment and Scene Consistency" [https://ieeexplore.ieee.org/abstract/document/10636268]. 
 
 The current version of the repository can cover the experiments reported in the paper, for researchers in time efficiency. And we will also update this repository for better understanding and clarity.
 
